@@ -7,7 +7,7 @@
  
 Welcome to my GitHub page! I am Lina and I am currently Learning LLM, RL, and Recommender system!  
  
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/maowenyu-11/maowenyu-11/blob/main/images/me.jpg" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 

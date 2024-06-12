@@ -12,7 +12,7 @@ Welcome to my GitHub page! I am Lina and I am currently Learning LLM, RL, and Re
  
 #### 🌱 Things I am currently working on 🌱 : 
 - I am engaged in research, actively searching for an internship, and aiming to graduate with honors
-- [My website](https://maowenyu-11.github.io) 🚀 *under construction*
+- My website 🚀 *under construction*
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
